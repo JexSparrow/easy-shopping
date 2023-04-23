@@ -3,7 +3,7 @@
 <h2> Uma página criada com a intenção simular uma landing page de uma site de compras. Realizada com ajuda do curso <a href="http://rodolfomori.com.br/devclub" target=_blank>Dev Club </a></h2>
 <p> A página é responsiva e feita para aprimorar os conhecimentos até então obtidos. </p>
 <br>
-<h3> Tecnologias utilizadas: <h3/>
+<h3> Tecnologias utilizadas: </h3>
 • HTML
 <br>
 • CSS
