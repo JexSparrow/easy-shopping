@@ -4,9 +4,9 @@
 <p> A página é responsiva e feita para aprimorar os conhecimentos até então obtidos. </p>
 <br>
 <h3> Tecnologias utilizadas: </h3>
-• HTML
+•<b>HTML</b> 
 <br>
-• CSS
+•<b>CSS</b>
 <br>
   <br>
 <div>
