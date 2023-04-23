@@ -7,3 +7,6 @@
 • HTML
 <br>
 • CSS
+<br>
+  <br>
+<img src="https://github.com/JexSparrow/easy-shopping/blob/master/assets/cell.png?raw=true">
