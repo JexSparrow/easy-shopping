@@ -17,5 +17,6 @@
   <br>
   <br>
   <br>
-  <p> Obrigado por visitar meu perfil 💙</p>
+  <br>
+  <p> <b> Obrigado por visitar meu perfil <b> 💙</p>
   
